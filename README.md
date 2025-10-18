@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
+    <a href="https://prathams1.github.io/Minimal-blog-card-starter-master/">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://your-url-to-the-solution}">
+    <a href="https://github.com/PrathamS1/Minimal-blog-card-starter-master">
       Solution
     </a>
     <span> | </span>

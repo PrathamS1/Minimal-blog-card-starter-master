@@ -75,5 +75,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Author
 
-- Website [Pratham Singh](https://itspratham.netlify.app/})
+- Website [Pratham Singh](https://itspratham.netlify.app})
 - GitHub [@PrathamS1](https://github.com/PrathamS1})
